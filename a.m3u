@@ -399,7 +399,7 @@ http://103.205.133.14/hls/ten3.m3u8
  
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports HD
-https://bit.ly/beinxtra
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 #EXTINF:-1 group-title="Sports",161.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 group-title="Sports",162.Dubai Sports 2
