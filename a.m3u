@@ -225,7 +225,7 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",94.Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",95.Sony Yay
-http://indtv.online/Sony_Yay_Hindi.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",96.POGO
 http://45.249.187.238:8081/hls/hdmi1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",96.Cheebies Asia
