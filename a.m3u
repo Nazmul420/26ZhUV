@@ -380,8 +380,8 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",153.Sky Sports Cricket
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",154.Star Sports 2
-http://103.135.208.14/live/ibox/bd/54.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",154.Star Sports Select 2
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",156.Sony Six
