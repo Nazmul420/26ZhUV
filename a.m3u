@@ -228,7 +228,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",96.POGO
 http://45.249.187.238:8081/hls/hdmi1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",96.Cheebies Asia
+#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",97.Cheebies Asia
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kids",98.Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
