@@ -295,8 +295,8 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",122.Ary Musik
 https://itpolly.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Music",123.MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0 tvg-logo="" group-title="Music",123.MTV
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Mastiii.in.png" group-title="Music",124.Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" tvg-country="IN" tvg-url="" group-title="Music",125.Public Music
