@@ -397,16 +397,17 @@ http://103.205.133.14/hls/ten3.m3u8
  
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:-1 group-title="Sports",161.Dubai Sports 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",161.Bein Sports Haber SD
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8
+#EXTINF:-1 group-title="Sports",162.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1 group-title="Sports",162.Dubai Sports 2
+#EXTINF:-1 group-title="Sports",163.Dubai Sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
-#EXTINF:-1 group-title="Sports",163.Dubai Sports 3
+#EXTINF:-1 group-title="Sports",164.Dubai Sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-#EXTINF:-1 group-title="Sports",164.Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+
  
  
  
