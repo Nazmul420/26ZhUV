@@ -294,7 +294,7 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",122.Ary Musik
 https://itpolly.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="Music",123.MTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/220px-MTV_Logo_2010.svg.png" group-title="Music",123.MTV
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Mastiii.in.png" group-title="Music",124.Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
