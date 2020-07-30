@@ -222,8 +222,8 @@ http://45.249.187.238:8081/hls/new14.m3u8
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",93.Nick HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",94.Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids",94.Disney Channel
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",95.Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",96.POGO
