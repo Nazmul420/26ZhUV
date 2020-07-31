@@ -378,38 +378,33 @@ https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",159.Sky Sports Cricket
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",160.Ten Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",160.Sky Sports Football
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",161.Ten Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",161.PTV Sports
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",162.PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-
-
-
-
- 
- 
- 
- 
- 
-
-#EXTINF:-1 group-title="Sports",162.Dubai Sports 1
+#EXTINF:-1 group-title="Sports",163.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1 group-title="Sports",163.Dubai Sports 2
+#EXTINF:-1 group-title="Sports",164.Dubai Sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
-#EXTINF:-1 group-title="Sports",164.Dubai Sports 3
+#EXTINF:-1 group-title="Sports",165.Dubai Sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-#EXTINF:-1 group-title="Sports",165.Edge Sports
+#EXTINF:-1 group-title="Sports",166.Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",166.Fight Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",167.Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
-#EXTINF:-1 group-title="Sports",167.Dubai Sports
+#EXTINF:-1 group-title="Sports",168.Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1 group-title="Sports",168.Dsports
+#EXTINF:-1 group-title="Sports",169.Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="Sports",169.Trace Sports Stars
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="Sports",170.Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sports",170.Fox Sports
-http://103.135.208.14/live/ibox/bd/9.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",171.DD Sports
 https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",172.Ads sport cricket
