@@ -186,8 +186,8 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",79.Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="Indian",80.Colors Rishtey
-https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",80.Colors Cineplex HD
+https://stream.amrbd.com/kn13a/index.m3u8
 
  
  
@@ -372,35 +372,38 @@ https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
  
  
  
- 
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",151.Ten Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",152.PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",153.Sky Sports Cricket
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",154.Star Sports Select 2 HD
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/894.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",156.Sony Six
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",151.Sony Six
 https://stream.amrbd.com:443/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",157.Sony Ten 1 (12:00am-6:00pm)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",158.Sony Ten 2
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",159.Sony Ten 3
 http://103.205.133.14/hls/ten3.m3u8
- 
- 
- 
- 
- 
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports Xtra HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
+http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/894.m3u8  
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8  
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",157.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",161.Bein Sports Haber SD
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",159.Sky Sports Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",160.Ten Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",161.PTV Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
 #EXTINF:-1 group-title="Sports",162.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 group-title="Sports",163.Dubai Sports 2
