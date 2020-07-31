@@ -270,7 +270,7 @@ http://103.205.133.19/hls/sonypix.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",110.And TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Indian",111.And Pictures
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",111.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hindi",112.And Xplor HD
 http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8 
