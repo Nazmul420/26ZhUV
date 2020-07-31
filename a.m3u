@@ -186,7 +186,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",79.Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hindi",80.Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Indian",80.Colors Cineplex HD
 https://stream.amrbd.com/kn13a/index.m3u8
 
  
@@ -272,7 +272,7 @@ http://103.205.133.19/hls/sonypix.m3u8
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",111.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hindi",112.And Xplor HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Indian",112.And Xplor HD
 http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",113.& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
@@ -352,10 +352,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian",148.Mini Plax
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18173.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="English",149.Comedy Central
-https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",150.Comedy Central HD
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",149.Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpSPzhIL3WrwUVhdA_oxX0xrqLXzXQ0Xi0jA&usqp=CAU" group-title="Indian",150.Netflix Bollywood HD
+http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/17460.m3u8
+
  
  
  
