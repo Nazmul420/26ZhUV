@@ -346,7 +346,7 @@ https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1,145.Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:0 tvg-logo="" group-title="Indian",146.Maha Movie
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Indian",146.Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxiD1xiu7tblrjF6KTD_DYK4RuwH8SiVuGxMMEVD3VCywoY4BV&usqp=CAU" group-title="Indian",147.ABZY Movies
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
