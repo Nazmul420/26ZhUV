@@ -113,8 +113,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Bangladeshi",51.Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",52.Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Bangladeshi",52.Cumilla 24 TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangladeshi",53.Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
  
