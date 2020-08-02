@@ -283,7 +283,7 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD
 http://indtv.online/jiotv/HBO_HD.m3u8
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",116.AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="English",117.FOX Action Movies
