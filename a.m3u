@@ -210,8 +210,8 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English",88.Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",89.Star Movies HD
-https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",89.Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",90.Star Gold Select HD
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18180.m3u8
  
