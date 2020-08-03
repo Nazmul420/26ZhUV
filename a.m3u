@@ -367,9 +367,9 @@ http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3
-http://103.205.133.14/hls/ten3.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/894.m3u8  
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
