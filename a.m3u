@@ -227,8 +227,8 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",95.Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",96.POGO
-http://45.249.187.238:8081/hls/hdmi1.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids",96.Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",97.Cheebies Asia
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="Kids",98.Tom & Jerry
