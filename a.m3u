@@ -181,7 +181,7 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",76.Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",77.Colors Bangla HD
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",78.Colors
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",79.Colors HD
@@ -195,7 +195,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/206
  
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",81.Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",82.Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",83.Jalsha Movies HD
