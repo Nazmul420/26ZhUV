@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="সর্বশেষ আপডেট      Date [06.08.2020]  Time [12:53pm]",1.IEDCR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="সর্বশেষ আপডেট      Date [06.08.2020]  Time [12:58pm]",1.IEDCR
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
@@ -158,6 +158,10 @@ https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",67.Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",67.Zee Bangla HD
+http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",68.Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",69.Zee TV
@@ -193,12 +197,14 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
  
  
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",80.Star Jalsha HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",80.Star Jalsha HD 1
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",80.Star Jalsha HD 2
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",80.Star Jalsha HD 3
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",81.Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",82.Jalsha Movies HD
-http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/666.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",83.Star Plus
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",84.Star Plus HD
