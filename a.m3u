@@ -167,11 +167,11 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",71.Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
  #EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",72.Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="Indian",73.Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",74.Zee Bollywood
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",75.Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
@@ -185,7 +185,7 @@ http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",78.Colors
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",79.Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Indian",80.Colors Cineplex HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/206
 
