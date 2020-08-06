@@ -161,7 +161,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",68.Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",69.Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",70.Zee TV HD
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",71.Zee Cafe HD
@@ -201,15 +201,15 @@ https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",83.Jalsha Movies HD
 http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/666.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",84.Star Plus
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",85.Star Plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",87.Star Gold HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",88.Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",89.Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
