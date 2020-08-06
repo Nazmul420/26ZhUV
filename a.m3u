@@ -283,8 +283,21 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO 1
+http://otv.ftpbd.net:80/streams/111/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO 2
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO 3
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO 4
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD 1
 http://indtv.online/jiotv/jojotv/HBO_HD.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD 2
+https://watchindia.net:8443/live/53030/45113/2081.ts
+
+
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",116.AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
