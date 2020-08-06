@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="সর্বশেষ আপডেট      Date [06.08.2020]  Time [9:33am]",1.IEDCR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="সর্বশেষ আপডেট      Date [06.08.2020]  Time [9:59am]",1.IEDCR
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
@@ -220,7 +220,7 @@ http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18180.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",91.Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",92.Nick Bangla
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",93.Nick HD+
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",94.Disney Channel
