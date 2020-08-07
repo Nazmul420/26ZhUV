@@ -6,7 +6,9 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="Bangladeshi",1.IEDCR
 https://bit.ly/iedcrbd2
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [1]
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [2]
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [1]
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
