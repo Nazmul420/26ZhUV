@@ -296,7 +296,7 @@ http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",88.Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",88.Star Movies  HD
-https://watchindia.net:8443/live/53030/45113/2080.ts
+https://watchindia.net:8443/live/11772/51623/2080.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",89.Star Gold Select HD
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",90.Star Movies Select HD
