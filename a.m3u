@@ -496,9 +496,11 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3 [3]
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/894.m3u8  
+http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/894.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts  
+http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",157.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD
