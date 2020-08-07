@@ -281,17 +281,17 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",85.Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD [1]
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD [2]
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",86.Star Gold HD [3]
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat [1]
 http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat [2]
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",87.Star Bharat [3]
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",88.Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
