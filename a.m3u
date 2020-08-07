@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [06.08.2020]  Time [10:54pm]",A
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [07.08.2020]  Time [10:59am]",A
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="Bangladeshi",1.IEDCR
 https://bit.ly/iedcrbd2
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [1]
-http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [2]
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [1]
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
@@ -328,39 +326,33 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",101.Discovery Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",101.Discovery
+http://indtv.online/jiotv/jojotv/Discovery.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",102.Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",103.National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",104.Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="English",105.Travel XP HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+http://indtv.online/jiotv/jojotv/Travel_XP_HD.m3u8
  
  
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",106.Sony Aath [1]
 http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",106.Sony Aath [2]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+http://103.205.133.19/hls/sony8.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Indian",107.Sony TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV HD [1]
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV HD [2]
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18176.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV HD [3]
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV HD [4]
-http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/867.ts
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV HD [5]
-https://watchindia.net:8443/live/53030/45113/1969.ts
 
 
 
@@ -368,8 +360,7 @@ https://watchindia.net:8443/live/53030/45113/1969.ts
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",108.Sony Max HD [1]
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",108.Sony Max HD [2]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Indian",109.Sony SAB
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",110.Sony Pix HD [1]
@@ -400,21 +391,18 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO [2]
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO [3]
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO [4]
 http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD [1]
 http://indtv.online/jiotv/jojotv/HBO_HD.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",115.HBO HD [2]
-https://watchindia.net:8443/live/53030/45113/2081.ts
+
 
 
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",116.AXN
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="English",117.FOX Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaKGqJsUGwCDnTYMFV1CohVXfcxFzw7cH8efkyNiaLeTEMwfyH&usqp=CAU" group-title="English",117.FOX Movies
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="English",118.WB TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
