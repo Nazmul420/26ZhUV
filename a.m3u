@@ -330,8 +330,7 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",101.Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts 
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",101.Discovery
-http://indtv.online/jiotv/jojotv/Discovery.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",102.Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",103.National Geographic
@@ -340,8 +339,6 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",104.Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",104.Sony BBC Earth HD
-http://indtv.online/jiotv/jojotv/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="English",105.Travel XP HD
 http://indtv.online/jiotv/jojotv/Travel_XP_HD.m3u8
  
