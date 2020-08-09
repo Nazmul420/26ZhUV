@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [08.08.2020]  Time [09:18am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [10.08.2020]  Time [01:33am]",
 
 
 
@@ -229,7 +229,7 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",88.Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",88.Star Movies  HD
-https://watchindia.net:8443/live/11772/51623/2080.ts
+http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/1681
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",89.Star Gold Select HD
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",90.Star Movies Select HD
