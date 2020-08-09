@@ -217,7 +217,7 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",81.Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",83.Star Plus
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",84.Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",85.Star Gold
