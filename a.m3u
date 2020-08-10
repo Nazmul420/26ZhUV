@@ -721,11 +721,16 @@ https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Others",302.Food Food
+http://103.141.66.36/bpk-tv/10014/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZHqhRxyE8Q43GfzwNaQrBTKwSiYkXBSTUVg&usqp=CAU" group-title="Others",303.Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Others",304.Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",305.Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Others",306.Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [2]
