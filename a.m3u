@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [10.08.2020]  Time [01:33am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [10.08.2020]  Time [09:07am]",
 
 
 
@@ -261,6 +261,8 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",101.Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",102.Animal Planet HD
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",102.Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",103.National Geographic
