@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [11.08.2020]  Time [09:14am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [11.08.2020]  Time [10:49am]",
 
 
 
@@ -309,7 +309,9 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery HD
+http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",133.Animal Planet HD
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",134.Animal Planet
@@ -320,6 +322,10 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",137.Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",137.BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Documentary",138.Travel XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",138.Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",139.Fox Life
@@ -478,13 +484,12 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxiD1xiu7tblrjF6KTD_DYK4RuwH8SiVuGxMMEVD3VCywoY4BV&usqp=CAU" group-title="Indian",199.ABZY Movies
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.ndtv.com/tech/images/gadgets/miniplex_fb.jpg" group-title="Indian",200.Mini Plax
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18173.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",201.Comedy Central HD
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",200.Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpSPzhIL3WrwUVhdA_oxX0xrqLXzXQ0Xi0jA&usqp=CAU" group-title="Indian",202.Netflix Bollywood HD
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/17460.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",201.BBC World
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",202.CNN
+https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
  
  
  
@@ -715,21 +720,19 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="Others",299.Al Jazeera
 https://bol.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",300.CNN
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8 
-#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",301.BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
+ 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Others",302.Food Food
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Others",300.Food Food
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZHqhRxyE8Q43GfzwNaQrBTKwSiYkXBSTUVg&usqp=CAU" group-title="Others",303.Food Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZHqhRxyE8Q43GfzwNaQrBTKwSiYkXBSTUVg&usqp=CAU" group-title="Others",301.Food Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Others",304.Food 52
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Others",302.Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",305.Cooking 4U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",303.Cooking 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Others",306.Living Foodz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Others",304.Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
