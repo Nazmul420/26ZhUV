@@ -278,8 +278,8 @@ https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",117.Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat HD
-http://oqab.life:31000/ropon@25/ropon25/104
+#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat H
+http://oqab.life:31000/ropon@25/ropon25/1424
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",119.Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",120.Star Movies Select HD
