@@ -741,6 +741,33 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU" group-title="Music",305.Sangeet Marathi
+http://103.141.66.36/bpk-tv/10334/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC-r07-LCWKCFWJCsfqY4cww8twBlQMLqYCiRrcqFASJV0v08r&usqp=CAU" group-title="Music",306.9x Jakasa
+http://103.141.66.36/bpk-tv/10141/default/index.m3u8
+#EXTINF:-1 tvg-logo=",307.Polymar
+http://103.141.66.36/bpk-tv/10303/default/index.m3u8
+#EXTINF:-1 tvg-logo=",308.Damal
+http://103.141.66.36/bpk-tv/10504/default/index.m3u8
+#EXTINF:-1 tvg-logo=",309.MK Tunes
+http://103.141.66.36/bpk-tv/10165/default/index.m3u8
+#EXTINF:-1 tvg-logo=",310.Aruvi TV
+http://103.141.66.36/bpk-tv/10261/default/index.m3u8
+#EXTINF:-1 tvg-logo=",311.MK SIX
+http://103.141.66.36/bpk-tv/10082/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English",312.Nimo TV 1
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English",313.Nimo TV 2
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English",314.Nimo TV 3
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English",315.Nimo TV 4
+https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
+
+
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [Extra]
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 
