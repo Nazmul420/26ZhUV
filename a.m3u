@@ -59,8 +59,8 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi",23.ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Bangladeshi",24.ATN Islam*
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Bangladeshi",24.ATN Islam
+http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",25.Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",26.Ekushey TV
