@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.08.2020]  Time [11:42am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [16.08.2020]  Time [09:20am]",
 
 
 
@@ -357,7 +357,7 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",149.AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",150.HBO HD
-http://185.236.230.64:8080/hls/052b67de157140dc8a40777cd18d2dc0/2852_57.ts
+http://185.236.230.64:8080/live/justforfun/fYvk3cQzJ9/2852.m3u8
 
 
 
