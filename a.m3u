@@ -283,7 +283,7 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",122.Cartoon Network
-http://45.249.187.238:8081/hls/new14.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",123.Nick Bangla
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",124.Nick HD+
