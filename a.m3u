@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.08.2020]  Time [09:38pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.08.2020]  Time [09:54pm]",
 
 
 
@@ -377,9 +377,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2 [Extra-1]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2 [Extra-2]
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
@@ -391,13 +393,11 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
 http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 1 HD
-http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",156.Star Sports Select 2 HD
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 1 HD
-http://otv.ftpbd.net/streams/113/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
-http://otv.ftpbd.net/streams/114/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",156.Star Sports Select 2 HD [Extra]
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",157.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD
@@ -751,7 +751,6 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD [Extra]
-
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [Extra]
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
@@ -848,22 +847,7 @@ http://103.141.66.36/bpk-tv/10480/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",150.HBO [Extra]
 http://otv.ftpbd.net:80/streams/111/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",151.Sony Six [Extra]
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",151.Sony Six [Extra]
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1 [Extra]
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1 [Extra]
-http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2 [Extra]
-http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2 [Extra]
-http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3 [Extra]
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3 [Extra]
-http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
+
 
 
 
