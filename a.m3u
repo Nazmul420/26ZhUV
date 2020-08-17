@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [16.08.2020]  Time [09:20am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.08.2020]  Time [09:30am]",
 
 
 
@@ -275,8 +275,8 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",119.Star Movies
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",119.Star Movies HD
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/5641.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",120.Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English",121.Star World
