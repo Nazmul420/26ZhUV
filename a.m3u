@@ -383,8 +383,6 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2 [Extra-2]
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2 [Extra-3]
-http://185.236.230.31:8080/hls/b7f311fd1515f56476a5317ba45b8360/17922_1944.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",154.Sony Ten 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
