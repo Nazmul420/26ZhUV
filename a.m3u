@@ -327,7 +327,7 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",134.Animal Planet HD 2
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",135.National Geographic
-http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",136.National Geographic HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",137.Nat Geo Wild
