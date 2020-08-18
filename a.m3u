@@ -376,7 +376,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",151.Sony Six
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2 [Extra-1]
