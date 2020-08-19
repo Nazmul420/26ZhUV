@@ -358,7 +358,7 @@ http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",145.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",146.& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",147.& Flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",148.& Flix HD
