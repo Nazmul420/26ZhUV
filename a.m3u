@@ -239,8 +239,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34MegPO6eQKUo8dmPagbF52Gu3q1eHSQqT0fX8D0SV9K_K4Ys&usqp=CAU" group-title="Music",103.Zee ETC
 http://103.141.66.36/bpk-tv/10007/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",104.Zee Cafe HD
-http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",104.Zee Cafe
+http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
 
 
