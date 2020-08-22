@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.08.2020]  Time [10:53am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.08.2020]  Time [10:59am]",
 
 
 
@@ -256,7 +256,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",109.Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-
+#EXTINF:-1 tvg-logo="" group-title="Indian",109.Sony Sab HD
+http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",110.Sony Pix HD
 http://103.205.133.19/hls/sonypix.m3u8
 
