@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [11:56am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [10:21pm]",
 
 
 
@@ -253,7 +253,7 @@ http://ccn.anytv.live:8080/sonyaath/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest/scale-to-width-down/200?cb=20190203115538" group-title="Indian Bangla",106.Sun Bangla
 http://line.ma-cobra.com/RBLLS9QX3LU7K/HP8HYVKF5O/126098
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",108.Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",109.Sony Max HD
