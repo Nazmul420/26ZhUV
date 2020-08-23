@@ -396,23 +396,27 @@ http://103.205.133.14/hls/ten3.m3u8
 http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",157.Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",156.Star Sports Select 2 HD [Extra]
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",157.Bein Sports Xtra HD
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",158.Bein Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",158.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",158.Bein Sports Xtra FHD
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD*
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",159.Sky Sports Cricket
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",159.Sky Sports Cricket*
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",160.Sky Sports Football
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",160.Sky Sports Football*
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",161.PTV Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",161.PTV Sports*
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",162.Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
@@ -426,9 +430,9 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 group-title="Sports",167.Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",168.Fight Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",168.Fight Sports*
 http://45.126.83.51/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",169.DD Sports
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",169.DD Sports*
 https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",170.Ads sport
 http://212.47.252.54/hls/stream.m3u8
