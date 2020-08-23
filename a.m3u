@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [10:56am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [23.08.2020]  Time [11:56am]",
 
 
 
@@ -408,10 +408,10 @@ https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",158.Bein Sports Haber SD*
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",159.Sky Sports Cricket*
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",160.Sky Sports Football*
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg" group-title="Sports",159.Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/hjJLLtv.jpg" group-title="Sports",160.Sky Net Sports 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
 
 
 
@@ -430,10 +430,10 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 group-title="Sports",167.Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",168.Fight Sports*
-http://45.126.83.51/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",169.DD Sports*
-https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",168.Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",169.DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",170.Ads sport
 http://212.47.252.54/hls/stream.m3u8
  
