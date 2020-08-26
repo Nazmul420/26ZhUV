@@ -250,8 +250,8 @@ http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",105.Sony Aath
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest/scale-to-width-down/200?cb=20190203115538" group-title="Indian Bangla",106.Sun Bangla
-http://line.ma-cobra.com/RBLLS9QX3LU7K/HP8HYVKF5O/126098
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",106.Orange Bangla
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",108.Sony Max
