@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [26.08.2020]  Time [1:30pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [26.08.2020]  Time [11:51pm]",
 
 
 
@@ -178,10 +178,10 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url="" group-title="Music",75.Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",76.8XM*
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
-#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",77.Enterr Ten
-https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8 
+#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",76.Enterr Ten
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="Music",77.Colosal TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/live-orgin/colosal.stream/chunks.m3u8
 
 
 
