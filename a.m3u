@@ -137,8 +137,8 @@ http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyL8l9U8cLxJ_sHIA8AyyEOTtf86F5iTKOXg&usqp=CAU" group-title="Bangladeshi",57.CGT TV*
 http://stream.telelivebd.com/ctgcraimtv/ctgcraimtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",58.Al Dawah*
-https://stream.telelivebd.com/aldawahtv/aldawahtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",58.Al Dawah
+http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlo7SOWpKROTnLCYRz90LWcLw-4hxBykrXsQ&usqp=CAU" group-title="Bangladeshi",59.Medina TV*
 http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Pakistani",60.Peace TV Urdu
