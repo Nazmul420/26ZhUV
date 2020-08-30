@@ -287,8 +287,8 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",122.Cartoon Network
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",122.Cartoon Network HD
+http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",123.Nick Bangla
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",124.Nick HD+
@@ -305,7 +305,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",130.Cheebies Asia
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",131.Disney Channel*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",131.Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
 
 
