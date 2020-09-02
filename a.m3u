@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.08.2020]  Time [12:14pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.08.2020]  Time [12:16pm]",
 
 
 
@@ -330,6 +330,8 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",136.National Geographic HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",136.National Geographic HD English
+http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",137.Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",137.BBC Earth
