@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.08.2020]  Time [1:46pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.08.2020]  Time [11:35am]",
 
 
 
@@ -379,7 +379,7 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
  
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",151.Sony Six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
@@ -389,20 +389,18 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 Hindi
-http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",157.Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",158.Bein Sports Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",159.Bein Sports Xtra HD
-https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",159.Bein Sports Xtra FHD
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports",158.Bein Sports 1 HD
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png" group-title="Sports",159.Bein Sports 2 HD
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",160.BT Sports 2
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -414,8 +412,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports",163.Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0a3P3WUaLBUR1DW5t4kdYAsMce8n-jIB2Og&usqp=CAU" group-title="Sports",164.Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Sports",164.PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 group-title="Sports",165.Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 group-title="Sports",166.Dubai Sports 1
