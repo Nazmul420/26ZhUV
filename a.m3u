@@ -227,14 +227,14 @@ http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",99.Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",100.Zee Bioskop*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",100.Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpbBsc2MGhsbRXPW5K6TmSuHvb0Bge1uRYt_3OF0Me8HeySDB8&usqp=CAU" group-title="Indian",101.Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Indian",102.Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34MegPO6eQKUo8dmPagbF52Gu3q1eHSQqT0fX8D0SV9K_K4Ys&usqp=CAU" group-title="Music",103.Zee ETC
-http://103.141.66.36/bpk-tv/10007/default/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",104.Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
