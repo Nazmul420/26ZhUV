@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.08.2020]  Time [11:56am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.08.2020]  Time [11:57am]",
 
 
 
@@ -171,13 +171,12 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Music",73.MTV Beats India
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url="" group-title="Music",75.Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",76.Enterr Ten
-https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="Music",77.Colosal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",74.9x Jalwa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",75.MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="Music",76.Colosal TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/live-orgin/colosal.stream/chunks.m3u8
-
 
 
 
@@ -473,8 +472,8 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",188.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="Indian",189.UTV Action*
-http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:0 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",189.Enterr Ten Movies
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="Others",190.B4U Movies
 http://103.205.133.14/hls/b4umovies.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="Indian",191.Wow Cinema
@@ -486,7 +485,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",194.Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="Others",195.Manoranjan TV
-https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",196.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1,197.Bollywood Premier
