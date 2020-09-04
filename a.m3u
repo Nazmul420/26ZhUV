@@ -193,8 +193,8 @@ https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",83.News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU" group-title="Indian Bangla",84.Bangla Time
-https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="Indian Bangla",84.Ekhon Kolkata
+http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",85.ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvsegs_S0AcgLlcHXcV8BpSykpFlcsGcdADA&usqp=CAU" group-title="Indian Bangla",86.R Plus News
