@@ -273,7 +273,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",117.Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",119.Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",120.Star Movies Select HD
@@ -818,14 +818,9 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",117.Star Gold HD [Extra]
-http://103.214.202.218:8081/live/stargold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",117.Star Gold HD [Extra]
-http://103.141.66.36/bpk-tv/10476/default/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat [Extra]
-http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",118.Star Bharat [Extra]
-http://103.205.133.19/hls/starbharat.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",141.Colors Bangla HD [Extra]
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
