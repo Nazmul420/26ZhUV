@@ -157,10 +157,10 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",66.Mastii
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/OckuFU2.png" group-title="Music",67.Zoom*
-https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",68.Zing*
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",67.8xm
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",68.Zing
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 #EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png",69.Ary Musik*
 https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF:0 tvg-logo="ttps://i.imgur.com/XooMA08.jpg" group-title="Music",70.B4U Music
