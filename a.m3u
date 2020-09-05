@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.08.2020]  Time [12:58pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.08.2020]  Time [01:00pm]",
 
 
 
@@ -675,7 +675,7 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="English",274.Film 4
 http://51.52.156.22:8888/http/008
 #EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="Others",275.DW
-https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",276.Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="Others",277.Hits
@@ -767,9 +767,6 @@ http://103.205.133.19/hls/channel24.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",17.NTV [Extra]
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",19.Banglavision HD [Extra]
 
 
 
@@ -785,16 +782,10 @@ http://103.214.202.218:8081/live/mytv/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",31.MOHONA TV [Extra]
+
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",32.Duronto TV [Extra]
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="Bangladeshi",34.Desh TV [Extra]
-http://103.141.66.36/bpk-tv/10038/default/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",35.Bangla TV [Extra]
-http://103.141.66.36/bpk-tv/10032/default/index.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="Bangladeshi",36.Nagorik TV [Extra]
-http://103.141.66.36/bpk-tv/10451/default/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi",37.Asian TV [Extra]
 http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
 
