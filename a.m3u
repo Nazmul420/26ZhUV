@@ -261,8 +261,8 @@ http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",110.Sony Pix HD*
-http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",110.Sony Movies Action
+http://51.52.156.22:8888/http/009
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha
@@ -666,15 +666,14 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 
 
 
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image495361b76fa00b2b.png" group-title="Others",271.FYI TV18
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/E6MpsL3.png" group-title="Others",272.Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/RBByaXv.png" group-title="Others",273.CNA
-https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="Others",274.ET Now
-https://edge01.iptv.digijadoo.net/live/et_now/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",271.Cinemax 
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="English",272.24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Others",273.Al Fajer Movie
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="English",274.Film 4
+http://51.52.156.22:8888/http/008
 #EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="Others",275.DW
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",276.Deejay TV
