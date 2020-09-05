@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.08.2020]  Time [10:15am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.08.2020]  Time [12:50pm]",
 
 
 
@@ -312,65 +312,54 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery Bangla
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",131.Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery English
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",132.Discovery HD
 http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Documentary",132.Discovery Asia
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",133.Discovery Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",133.Discovery English
+https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Documentary",134.Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",132.Discovery Science Hindi
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",135.Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",132.Discovery Science English
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",136.Discovery Science English3
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",133.Animal Planet
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",137.Animal Planet
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",134.Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",137.Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",134.Animal Planet HD 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",138.Animal Planet HD 2
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",135.National Geographic
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",136.National Geographic HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",139.National Geographic HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
-#EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",136.National Geographic HD English
-http://otv.ftpbd.net/streams/110/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Documentary",137.Nat Geo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",137.BBC Earth
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",140.BBC Earth
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Documentary",138.Travel XP HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Documentary",141.Travel XP HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",138.Travel Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",142.Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",139.Fox Life
-https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",143.Fox Life HD
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="English",144.Fox Crime
+http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",145.Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",145.Fox HD [Russia]
+http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",140.Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",141.Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",142.Colors
-https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",143.Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",144.And TV HD
-http://103.141.66.36/bpk-tv/10182/default/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",145.And Pictures
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",144.Colors
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",146.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",146.& Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",147.& Prive HD
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",147.& Flix
-http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",148.& Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",149.AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",150.HBO Hits
