@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.09.2020]  Time [01:02pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [05.09.2020]  Time [01:10pm]",
 
 
 
@@ -10,8 +10,6 @@ http://bit.ly/btvbkash
 http://103.205.133.14/hls/btv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD
 https://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News HD
@@ -275,6 +273,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",114.Star Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian",114.Star Plus HD
+https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",114.Star Gold
+https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",114.Star Gold HD
+https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian",115.Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="English",116.Star Movies
@@ -360,6 +365,15 @@ http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",144.Colors
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",144.Colors Bangla
+https://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",144.Colors Bangla HD
+https://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",144.Colors
+https://robi.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",144.Colors HD
+https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",146.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",147.& Prive HD
@@ -489,7 +503,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",194.Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="Others",195.Manoranjan TV
-https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",196.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1,197.Bollywood Premier
@@ -499,11 +513,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxiD1xiu7tblrjF6KTD_DYK4RuwH8SiVuGxMMEVD3VCywoY4BV&usqp=CAU" group-title="Indian",199.ABZY Movies
 http://103.141.66.36/bpk-tv/10076/default/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",200.Comedy Central HD
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",201.BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
+https://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",202.CNN
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
  
  
  
@@ -514,13 +528,13 @@ https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
  
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani",203.PTV Global
-https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef40c0b94aea582b2.png" group-title="Pakistani",204.PTV Home
-https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani",205.PTV News
-https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="Pakistani",206.PTV World
-https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU" group-title="Pakistani",207.Geo Tez
 http://103.141.66.36/bpk-tv/10262/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU" group-title="Pakistani",208.Geo News
@@ -528,9 +542,9 @@ http://103.141.66.36/bpk-tv/10288/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScT8TnWGNi6Mds_cyKsKTwo-DbXQwp2R_pL7kqCePXsJfThaIJ&usqp=CAU" group-title="Pakistani",209.A plus
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="Pakistani",210.Ary Asia
-https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistani",211.Ary Zindigi
-https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRk5kjJvO3nW_Ka30AjiV8L7PTs3vGY7S_CjiLO6nb12P8wowF&usqp=CAU" group-title="Pakistani",212.ARY Family
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="Pakistani",213.Hum Masala
