@@ -355,6 +355,8 @@ http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",139.National Geographic HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",140.BBC Earth
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="Documentary",140.Viasat Nature HD
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Documentary",141.Travel XP HD
@@ -373,8 +375,7 @@ http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",144.Colors
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",144.Colors Bangla
 https://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",144.Colors Bangla HD
