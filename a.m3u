@@ -633,10 +633,14 @@ http://5.135.92.133:52841/out/u/452_1.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="Others",262.The Islamic Network
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Others",263.MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Others",264.MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJc5ydx.jpg" group-title="Others",265.WF
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Others",266.Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Others",267.HD Fashion & LifeStyle
