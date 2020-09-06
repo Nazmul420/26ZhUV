@@ -371,7 +371,7 @@ https://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",146.Colors
 https://robi.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",147.Colors HD
-https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/68.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",148.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
