@@ -392,7 +392,7 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1yLS.png" group-title="Sports",155.Sony Ten 3
+#EXTINF:-1 tvg-logo="" group-title="Sports",155.Willow HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/70.m3u8
 
 
