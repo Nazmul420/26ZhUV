@@ -8,11 +8,11 @@
 http://bit.ly/btvbkash
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",1.BTV
 http://103.205.133.14/hls/btv.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD
 https://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News
 http://103.205.133.14/hls/dbcnews.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",5.News 24
 http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
@@ -22,9 +22,9 @@ http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi",8.CHANNEL 24
 http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi",9.Channel 9 HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi",9.Channel 9
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi",10.Deepto TV HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi",10.Deepto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
 
 
@@ -33,13 +33,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",11.JAMUNA TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",12.Channel I HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",12.Channel I
 http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi",13.Maasranga HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi",13.Maasranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",14.SATV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",15.RTV HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",14.SATV
+http://bds.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",15.RTV
 http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangladeshi",16.RTV Music HD
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
