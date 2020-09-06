@@ -607,8 +607,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="Others",250.Al Jazeera
 https://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",251.ITV 1
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",252.ITV 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",253.ITV 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",254.ITV 4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="English",255.Rai 1
+http://5.135.92.133:52841/out/u/440_1.m3u8
+#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="English",256.Rai 2
+http://5.135.92.133:52841/out/u/452_1.m3u8
 
 
 
@@ -627,10 +637,16 @@ https://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1vLJm.jpg" group-title="English",269.Britcom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",268.Cbbc
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="English",270.Dove channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="English",271.Cine Series
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="English",272.FX
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC",273.MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC",274.MBC 1 SD
