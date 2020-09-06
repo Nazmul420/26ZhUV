@@ -546,35 +546,35 @@ https://robi.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
 https://robi.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="Pakistani",206.PTV World
 https://robi.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU" group-title="Pakistani",207.Geo Tez
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMVCuQBKeGm_1PpTS-bR6ENY6OcPOkNe3VKSYThvSsTfWYbfte&usqp=CAU" group-title="Pakistani",207.Geo Tez*
 http://103.141.66.36/bpk-tv/10262/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU" group-title="Pakistani",208.Geo News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzI4VDtWA49BxA8mZavzDRQ_IheV2rDmOPej3ujysRqgVqAb99&usqp=CAU" group-title="Pakistani",208.Geo News*
 http://103.141.66.36/bpk-tv/10288/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScT8TnWGNi6Mds_cyKsKTwo-DbXQwp2R_pL7kqCePXsJfThaIJ&usqp=CAU" group-title="Pakistani",209.A plus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScT8TnWGNi6Mds_cyKsKTwo-DbXQwp2R_pL7kqCePXsJfThaIJ&usqp=CAU" group-title="Pakistani",209.A plus*
 http://103.141.66.36/bpk-tv/10079/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="Pakistani",210.Ary Asia
 https://robi.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistani",211.Ary Zindigi
 https://robi.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRk5kjJvO3nW_Ka30AjiV8L7PTs3vGY7S_CjiLO6nb12P8wowF&usqp=CAU" group-title="Pakistani",212.ARY Family
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRk5kjJvO3nW_Ka30AjiV8L7PTs3vGY7S_CjiLO6nb12P8wowF&usqp=CAU" group-title="Pakistani",212.ARY Family*
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="Pakistani",213.Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani",241.Hum Sitery
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani",214.Hum Sitery*
 http://103.141.66.36/bpk-tv/10241/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Pakistani",215.Aaj Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Pakistani",215.Aaj Entertainment*
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Pakistani",216.Express Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Pakistani",216.Express Entertainment*
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Pakistani",217.BOL Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Pakistani",217.BOL Entertainment*
 https://playlive.goonj.pk/bolentweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="Pakistani",218.BOL News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="Pakistani",218.BOL News*
 http://playlive.goonj.pk/bolweb_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="Pakistani",219.Geo News
-https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Pakistani",220.Filmax
+https://robi.iptv.digijadoo.net/live/geo_news/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Pakistani",220.Filmax*
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistani",221.Film World
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistani",221.Film World*
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Pakistani",222.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
@@ -586,9 +586,9 @@ https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",226.Tag TV 2
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="Pakistani",227.LTN Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="Pakistani",227.LTN Family*
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Others",228.Makkah Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Others",228.Makkah Live*
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
  
  
@@ -597,8 +597,8 @@ https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",229.MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="Others",230.Lotus Macaw
-https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="Others",231.Romedy Now
+https://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="Others",231.Romedy Now*
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",232.Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
@@ -606,7 +606,7 @@ http://45.126.83.51/uq2663/h/h37/index.m3u8
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="Documentary",234.History TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="English",235.MGM SciFi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="English",235.MGM SciFi*
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",236.KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
@@ -614,10 +614,10 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="Documentary",238.BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Others",239.Jhanjar HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Others",239.Jhanjar HD*
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",240.NHK World Japan
-https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 
 
 
