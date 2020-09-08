@@ -352,13 +352,13 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",144.Colors Bangla
-https://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",145.Colors Bangla HD
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",146.Colors
 http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",147.Colors HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/68.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",148.And Pictures
 http://103.205.133.14/hls/andpicture.m3u8
