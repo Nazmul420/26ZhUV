@@ -101,7 +101,7 @@ http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Bangladeshi",41.Alpona TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="Bangladeshi",42.Probashi Bangla*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="Bangladeshi",42.Probashi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Bangladeshi",43.NRB TV
 http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
@@ -122,8 +122,8 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangladeshi",51.Voice Bangla
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangladeshi",52.Nandan TV
-http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iy8lbyrctvqc4vs/gbanglatv.png" group-title="Bangladeshi",52.G Bangla
+https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Bme0WkM.png" group-title="Bangladeshi",53.Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="Bangladeshi",54.ITV Bangla
@@ -191,7 +191,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRARyGX2dUuyJykbMmjHZi_Gyt910zVt-bkLQ&usqp=CAU" group-title="Indian Bangla",82.Sun Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRARyGX2dUuyJykbMmjHZi_Gyt910zVt-bkLQ&usqp=CAU" group-title="Indian Bangla",82.Sun Bangla*
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/126098
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",83.Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
