@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [18.09.2020]  Time [06:46pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [18.09.2020]  Time [06:49pm]",
 
 
 
@@ -252,13 +252,13 @@ http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",106.Sony TV
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",107.Sony Max
-http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",108.Sony Max 2
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",109.Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab HD
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",110.Sony Movies Action
 http://51.52.156.22:8888/http/009
 
