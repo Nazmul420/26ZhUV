@@ -535,9 +535,9 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",219.BBC World
-https://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8 
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",220.CNN
-https://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
+http://203.162.235.41:16918
 #EXTINF:0 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",221.NHK World Japan
 https://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
  #EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",222.KIX
