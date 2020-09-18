@@ -299,8 +299,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",121.Nick
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",122.Disney Channel
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112872
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",122.Disney Channel 2
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids",123.Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
