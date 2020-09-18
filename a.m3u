@@ -380,7 +380,7 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",151.Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",152.Sony Six
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",153.Sony Ten 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
