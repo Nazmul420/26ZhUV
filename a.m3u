@@ -261,27 +261,25 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 http://103.205.133.50/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",105.Sony Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",108.Sony Max 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",106.Sony Max 2
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",109.Sony Max HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian",107.Sony Max HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",108.Sony Sab
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Indian",110.Sony WAH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Indian",109.Sony WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",111.Sony Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",110.Sony Movies Action
 http://51.52.156.22:8888/http/009
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha [1]
-http://103.205.133.14/hls/chsj.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha [2]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [1]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha HD [1]
 http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [2]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha HD [2]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
