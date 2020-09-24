@@ -277,8 +277,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [1]
-http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [2]
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [3]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
@@ -360,12 +362,12 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",145.Colors Bangla HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",146.Colors
-http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
+http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",147.Colors HD
-
+http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",148.And Pictures
-http://103.205.133.14/hls/andpicture.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",149.& Prive HD
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",150.& Flix HD
