@@ -290,37 +290,39 @@ http://45.249.187.238:8081/hls/tsl-3.m3u8
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",118.Star Movies Select
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies HD
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 
 
 
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",119.Cartoon Network HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",120.Cartoon Network HD
 http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",120.Cartoon Network HD+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",121.Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",121.Nick
+#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",122.Nick
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",122.Disney Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",123.Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids",123.Disney XD
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids",124.Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",124.Sony Yay
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",125.Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
-#EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",125.Discovery Kids
+#EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",126.Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",126.BBC Cbeebies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",127.BBC Cbeebies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
-#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids",127.Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",128.Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="Kids",129.AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids",130.EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",131.MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
+#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids",131.Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
 
 
 
