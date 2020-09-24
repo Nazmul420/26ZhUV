@@ -271,8 +271,9 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",110.Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",111.Sony Pix
-http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",111.Sony Pix*
+http://198.255.87.59:8080/INDIA_HINDI/SONY_PIX_HD/tracks-v1a1/mono.m3u8?token=test
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
