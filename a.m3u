@@ -453,14 +453,11 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",176.Fox Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="English",177.Fox Crime*
-http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",178.Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",179.Fox HD [Russia]
 http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaKGqJsUGwCDnTYMFV1CohVXfcxFzw7cH8efkyNiaLeTEMwfyH&usqp=CAU" group-title="English",180.FOX Movies*
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+
 
 
 
@@ -470,36 +467,27 @@ http://136.243.177.164/AXN/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",183.HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",184.HBO (China) 
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="English",185.WB TV*
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",186.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",187.Comedy Central HD*
-https://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="Others",188.Lotus Macaw*
-https://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",189.MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",190.Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="English",191.Hollywood HD*
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 
-#EXTINF:0 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png",192.Enterr Ten Movies*
-https://robi.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="Indian",193.Wow Cinema*
-http://103.205.133.14/hls/wowcinema.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",194.Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",195.Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",196.Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="Others",197.Manoranjan TV*
-https://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",198.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",199.Bollywood Premier
@@ -511,22 +499,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani",202.PTV Global
-https://robi.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef40c0b94aea582b2.png" group-title="Pakistani",203.PTV Home
-https://robi.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani",204.PTV News
-https://robi.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="Pakistani",205.PTV World
-https://robi.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="Pakistani",206.Ary Asia
-https://robi.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistani",207.Ary Zindigi
-https://robi.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="Pakistani",208.Hum Masala
-http://iptv.kitv.live:1935/live/Shari/MTV-P/33.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="Pakistani",209.Geo News
-https://robi.iptv.digijadoo.net/live/geo_news/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Pakistani",210.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Pakistani",211.Sahar Urdu
@@ -551,8 +524,7 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",220.CNN
 http://203.162.235.41:16918
-#EXTINF:0 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",221.NHK World Japan
-https://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
  #EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",222.KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
