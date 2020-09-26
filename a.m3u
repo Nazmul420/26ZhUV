@@ -236,38 +236,17 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",66.8XM
-http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",68.Mastii
-http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34MegPO6eQKUo8dmPagbF52Gu3q1eHSQqT0fX8D0SV9K_K4Ys&usqp=CAU" group-title="Music",70.Zee ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",71.Zing
-http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="Music",75.E24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",76.9x Jalwa
-http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",82.Orange Bangla
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",95.Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="Indian Bangla",83.Ruposhi Bangla
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="Indian Bangla",96.Ruposhi Bangla
 http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Indian Bangla",84.Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Indian Bangla",97.Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/jywsIvq.png" group-title="Indian Bangla",85.DD Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",86.News 18 Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",98.News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",87.ABP Ananda
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",99.ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Indian Bangla",88.Calcutta News
+#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Indian Bangla",100.Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
  
  
@@ -741,6 +720,21 @@ https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 
 
 
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",66.8XM
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",68.Mastii
+http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34MegPO6eQKUo8dmPagbF52Gu3q1eHSQqT0fX8D0SV9K_K4Ys&usqp=CAU" group-title="Music",70.Zee ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",71.Zing
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="Music",75.E24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",76.9x Jalwa
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
 
 
 
