@@ -632,8 +632,12 @@ http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
 https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
 #EXTINF: -1 tvg-logo="" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-
-
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Spice FM (96.4)
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Colours FM (101.6)
+http://45.64.135.88:8000/stream1
 
 
 
