@@ -271,10 +271,12 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
  
  
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",104.Zee Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",104.Zee Bangla [1]
 http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",104.Zee Bangla [2]
+http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",105.Zee Bangla HD
-http://89.187.169.206:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.206:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",106.Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",107.Zee TV
