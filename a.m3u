@@ -624,6 +624,12 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 #EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Dhoni (91.2)
+http://182.160.110.180:1020/;stream.mp3
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Bhumi (92.8)
+https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
 
 
 
