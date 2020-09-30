@@ -628,6 +628,8 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://182.160.110.180:1020/;stream.mp3
 #EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Shadhin (92.4)
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF: -1 tvg-logo="" group-title="FM Radio",Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF: -1 tvg-logo="" group-title="FM Radio",Radio Bhumi (92.8)
 https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
 #EXTINF: -1 tvg-logo="" group-title="FM Radio",Jago FM (94.4)
