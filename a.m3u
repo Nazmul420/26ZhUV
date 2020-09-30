@@ -313,7 +313,7 @@ https://load.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Indian",123.Sony WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",124.Sony Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",124.Sony Movies Action*
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",125.Sony Pix
 http://45.249.187.238:8081/hls/new21.m3u8
@@ -338,7 +338,7 @@ http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?tok
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",134.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="Music",135.Jhankar Music
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="Music",135.Jhankar Music*
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",136.Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
