@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.10.2020]  Time [11:45pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.10.2020]  Time [11:54pm]",
 
 
 
@@ -54,38 +54,38 @@ http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi",11.JAMUNA TV
-http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi",12.Channel I
-http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+http://103.214.202.218:8081/live/channeli/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi",13.Maasranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",14.SATV
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",15.RTV
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+http://103.214.202.218:8081/live/rtv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",16.NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",17.Banglavision
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi",18.Boishakhi
-http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",19.ATN Bangla
-http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi",20.ATN News
-http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",21.Duronto TV
-http://45.249.187.238:8081/hls/new3.m3u8
+http://103.102.136.106:8080/cmcltv/duronto.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",22.Ekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",23.My TV HD
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",24.Gaan Bangla HD
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",25.Bangla TV
-http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi",26.Nagorik TV
 http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi",27.Asian TV
