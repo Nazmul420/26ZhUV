@@ -446,39 +446,36 @@ http://212.47.252.54/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",170.Cinemax 
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",171.Cinemax 
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="English",171.24 Box TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="English",172.24 Box TV
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Others",172.Al Fajer Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Others",173.Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="English",173.Film 4
-http://51.52.156.22:8888/http/008
-#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="Others",174.DW
-http://iptv.kitv.live:1935/live/Shari/MTV-P/101.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",175.Deejay TV
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",174.Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="Others",176.Hits
+#EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="Others",175.Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-country="GR" tvg-url="" group-title="Others",177.Wixlar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-country="GR" tvg-url="" group-title="Others",176.Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Others",178.RU.TV
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Others",177.RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",179.Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",178.Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",180.MTA English
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",179.MTA English
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vgJnopD.png" group-title="Others",181.Cinema World
+#EXTINF:0 tvg-logo="https://i.imgur.com/vgJnopD.png" group-title="Others",180.Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",182.Series Zone
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",181.Series Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",183.Times Now HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",182.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Others",184.Box Hits
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Others",183.Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Others",185.Baraza TV Greek Music Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Others",184.Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="English",186.The ShortFilms
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="English",185.The ShortFilms
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",187.Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
