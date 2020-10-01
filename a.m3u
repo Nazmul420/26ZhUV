@@ -306,6 +306,57 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png",117.Pop Pataakha
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",118.Colors
+http://45.249.187.238:8081/hls/live2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",119.Colors HD
+http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",120.And Pictures
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",121.& Prive HD
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",122.& Flix HD
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",123.Travel Channel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",124.Fox Life HD
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",125.Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",126.Fox HD [Russia]
+http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",127.AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",128.HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",129.MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",130.Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",131.KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",132.Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",133.Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",134.Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",135.Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",136.Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Indian",137.Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Indian",138.Dabang TV
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",151.Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8 
@@ -363,54 +414,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",170.Ads sport
 http://212.47.252.54/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",171.Colors
-http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Indian",172.Colors HD
-http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",173.And Pictures
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",174.& Prive HD
-http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",175.& Flix HD
-http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",176.Travel Channel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",177.Fox Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",178.Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",179.Fox HD [Russia]
-http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",180.AXN
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",181.HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",182.MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",183.Hits
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",184.KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",185.Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",186.Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",187.Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",188.Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="Indian",189.Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Indian",190.Maha Movie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Indian",191.Dabang TV
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 
 
