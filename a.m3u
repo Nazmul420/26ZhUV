@@ -157,7 +157,7 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x91288" group-title="Bangladeshi",58.ION TV*
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Bangladeshi",59.Jagoroni Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Bangladeshi",59.Jagoroni Tv*
 https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x91288" group-title="Bangladeshi",60.AB TV*
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
@@ -166,15 +166,15 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ksaxffmztsbi0hz/City-TV.jpg" group-title="Bangladeshi",61.City IPTV*
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zh2jknxug1snxno/Doyel-Tv.png" group-title="Bangladeshi",62.Doyel TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zh2jknxug1snxno/Doyel-Tv.png" group-title="Bangladeshi",62.Doyel TV*
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k2evwjpp9oo64yr/onuvhuti-TV.png" group-title="Bangladeshi",63.Onubhuti TV
 http://149.28.147.59/live/onuvhuti/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangladeshi",64.Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonbanglatv.jpg" group-title="Bangladeshi",65.Binodon Bangla
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonbanglatv.jpg" group-title="Bangladeshi",65.Binodon Bangla*
 https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonbangla.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangladeshi",66.Voice Bangla
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangladeshi",66.Voice Bangla*
 https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iy8lbyrctvqc4vs/gbanglatv.png" group-title="Bangladeshi",67.G Bangla
 https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
@@ -191,7 +191,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Bangladeshi",73.Channel S UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",74.Al Dawah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",74.Al Dawah*
 https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlo7SOWpKROTnLCYRz90LWcLw-4hxBykrXsQ&usqp=CAU" group-title="Bangladeshi",75.Madani TV
 http://45.249.187.238:8081/hls/new9.m3u8
