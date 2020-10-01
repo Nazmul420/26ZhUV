@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.10.2020]  Time [01:13pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [01.10.2020]  Time [06:50pm]",
 
 
 
@@ -20,7 +20,7 @@ https://drive.google.com/uc?export=download&id=1sM1ZWvY-wmO9v-nGj1HfiOx6O1K1UzzF
 
 
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 1 [Regular Update]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601490952/ei/qHt0X7CmMsjKvATwj5GIDA/ip/27.123.246.1/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL6wVg4ik4VtwLuYjEwIoZeBN6I6D13epXJDaeYX6b6LAiEAwsXA6S1AzaESFAQOwUo8F5D7-cLBrH0MfuHypySyScA%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601577947/ei/e891X_itDJGovASCj5ngDQ/ip/27.123.244.6/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJR3dFJmVoN81TdXAr7tafRXh3WCte3IHJXYHLD0f_jhAiBN_jkKk1qZiS0LWyjrIkUKsibwAfRAluxWPzz1-RPllg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 2
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=01826655778
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 3
