@@ -1,22 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.10.2020]  Time [12:05pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.10.2020]  Time [12:09pm]",
 
 
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="Bangladeshi",01826655778
 http://bit.ly/btvbkash
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Exclusive",Ityadi
+https://drive.google.com/uc?export=download&id=1sM1ZWvY-wmO9v-nGj1HfiOx6O1K1UzzF
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Exclusive",Behind The Puppy
+https://www.dropbox.com/s/t77fwkvluzfrufg/Promo.mp4?raw=1
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-01.10.20]
 https://www.dropbox.com/s/73hap9omqqyopih/67.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-02.10.20]
 https://www.dropbox.com/s/mwgcxe8ckm1q1rd/68.mp4?raw=1
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Exclusive",Behind The Puppy
-https://www.dropbox.com/s/t77fwkvluzfrufg/Promo.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Exclusive",Ityadi
-https://drive.google.com/uc?export=download&id=1sM1ZWvY-wmO9v-nGj1HfiOx6O1K1UzzF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-03.10.20]
+https://www.dropbox.com/s/yc4ravgnod7ev83/69.mp4?raw=1
 
 
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 1 [Regular Update]
