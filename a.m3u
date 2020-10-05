@@ -303,8 +303,8 @@ http://103.205.133.50/hls/chsj.m3u8
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Jalsha Movies HD
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",114.Star Plus HD
-http://198.255.87.59:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",114.Star Plus
+http://103.205.133.50/hls/chsp.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",115.Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",116.Star Gold Select HD
