@@ -224,6 +224,11 @@ http://198.255.87.59:8080/INDIA_HINDI/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=t
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://www.anytv.live/anytv/nickk.png" group-title="Kids",81.Nick
+http://anytv.live:8080/saiful/saiful/332
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA" tvg-logo="" group-title="Kids",81.Hungama
+http://anytv.live:8080/saiful/saiful/372
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",81.Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",82.Disney Channel
