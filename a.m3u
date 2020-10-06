@@ -235,6 +235,8 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 http://anytv.live:8080/saiful/saiful/332
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA" tvg-logo="" group-title="Kids",81.Hungama
 http://anytv.live:8080/saiful/saiful/372
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids",81.Pogo
+http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",81.Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSrl92fa0DqdspbsqvuCzcy9ma7b0_O19lNA&usqp=CAU" group-title="Kids",82.Disney Channel
