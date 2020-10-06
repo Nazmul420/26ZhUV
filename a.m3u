@@ -216,6 +216,8 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",75.Discovery Science English
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/kfvgxtjsp5o6yw2/id.png" group-title="Documentary",75.Discovery ID
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",76.Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",77.Animal Planet HD 2
