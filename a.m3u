@@ -143,7 +143,7 @@ http://45.249.187.238:8081/hls/new9.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Pakistani",61.Peace TV Urdu
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Others",61.Peace TV Urdu
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Indian Bangla",62.Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
@@ -526,15 +526,15 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Indian",218.Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Pakistani",279.Kay 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Others",219.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Pakistani",220.Sahar Urdu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Others",220.Sahar Urdu
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Pakistani",221.Subrang TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Others",221.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",222.Tag TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Others",222.Tag TV 1
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",223.Tag TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Others",223.Tag TV 2
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 
