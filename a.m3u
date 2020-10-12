@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [12.10.2020]  Time [10:04pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [13.10.2020]  Time [01:04am]",
 
 
 
@@ -606,7 +606,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Others",219.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Others",220.Sahar Urdu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Others",220.Sahar Urdu*
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Others",221.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
@@ -620,7 +620,7 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Others",225.Cooking 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Others",226.Living Foodz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Others",226.Living Foodz*
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",227.BBC World
@@ -651,7 +651,7 @@ http://182.160.110.180:1020/;stream.mp3
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" group-title="FM Radio",Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/lfhl97ehec4x5tf/92.8.png?raw=1" group-title="FM Radio",Radio Bhumi (92.8)
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/lfhl97ehec4x5tf/92.8.png?raw=1" group-title="FM Radio",Radio Bhumi (92.8)*
 https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/wwu6mams4pv2yfs/94.4.png?raw=1" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
