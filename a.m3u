@@ -232,6 +232,8 @@ https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/chunklist_b1228000.m3u
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",77.Animal Planet HD 2
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",78.National Geographic
+https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Documentary",78.National Geographic HD
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",79.BBC Earth
@@ -240,7 +242,8 @@ https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/chunklist_b1228000.m3u8
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="Kids",81.Sony Yay
+https://ott.bingebd.com:443/live/ngrp:sony_yay_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://www.anytv.live/anytv/nickk.png" group-title="Kids",81.Nick HD
 https://ott.bingebd.com:443/live/ngrp:nick_hd_all/chunklist_b8432648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://www.anytv.live/anytv/nickk.png" group-title="Kids",81.Nick
@@ -285,7 +288,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",89.Zee Bangla [1]
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",90.Zee Bangla [2]
-http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/chunklist_b6106524.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",91.Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",92.Zee Bangla Cinema
@@ -314,20 +317,24 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath [1]
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath [2]
+http://103.205.133.50/hls/sony8.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath [3]
+https://ott.bingebd.com:443/live/ngrp:sony_aath_all/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV
 http://103.205.133.50/hls/chs.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",106.Sony Max
-http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Indian",106.Sony Max HD
+https://ott.bingebd.com:443/live/ngrp:sony_max_all/chunklist_b5178212.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",107.Sony Max 2
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",108.Sony Sab
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+https://ott.bingebd.com:443/live/ngrp:sab_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Indian",109.Sony WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",110.Sony Pix
-http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",110.Sony Pix HD
+https://ott.bingebd.com:443/live/ngrp:sony_pix_all/chunklist_b6711325.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha
