@@ -370,6 +370,8 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 http://103.205.133.50/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla",135.Colors Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU" group-title="Indian",135.Colors Rishtey
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",136.And Pictures
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",137.& Prive HD
@@ -438,8 +440,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.205.133.50/hls/chss2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",156.Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",157.Star Sports Select 1 HD
-http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",158.Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
