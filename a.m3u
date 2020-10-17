@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.10.2020]  Time [01:50pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.10.2020]  Time [11:05pm]",
 
 
 
@@ -312,16 +312,12 @@ http://103.205.133.50/hls/chsp.m3u8
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",115.Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Indian",115.Star Gold HD
-https://ott.bingebd.com:443/live/ngrp:star_gold_all/chunklist_b2128000.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",115.Star Gold
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",116.Star Gold Select HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",116.Star Gold HD
+http://43.230.123.21:8080/live/star-gold.m3u8
+#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",117.Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",117.Star Movies HD [1]
-http://criclive.sonarbanglatv.com:8081/livetv/starmovies/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",118.Star Movies HD [2]
-http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",118.Star Movies HD
+http://43.230.123.21:8080/live/star-gold.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 
