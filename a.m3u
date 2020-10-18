@@ -348,7 +348,7 @@ http://43.230.123.21:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",117.Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",118.Star Movies HD
-http://43.230.123.21:8080/live/star-gold.m3u8
+http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 
