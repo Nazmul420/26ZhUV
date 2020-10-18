@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [18.10.2020]  Time [10:30am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [18.10.2020]  Time [06:33pm]",
 
 
 
@@ -20,7 +20,7 @@ https://www.dropbox.com/s/e1l1g0h0jjf6khq/2.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-16.10.20]
 https://www.dropbox.com/s/8fs9ng3sabjvi5k/3.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-10.10.20]
-http://bit.ly/bachelorpoint1
+https://www.dropbox.com/s/g5n7dnsb4pd679k/4.mp4?raw=1
 
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
@@ -324,7 +324,7 @@ http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",110.Star Jalsha
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha HD [1]
-http://43.230.123.21:8080/live/star-gold.m3u8
+http://43.230.123.21:8080/live/star-jalsha.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha HD [2]
 http://global.thunderbd.com/30/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",111.Star Jalsha HD [3]
