@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:55am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:57am]",
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="Bangladeshi",01826655778
-http://bit.ly/btvbkashnew
+http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="Exclusive",Ityadi
 https://drive.google.com/uc?export=download&id=1sM1ZWvY-wmO9v-nGj1HfiOx6O1K1UzzF
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="Exclusive",Behind The Puppy
