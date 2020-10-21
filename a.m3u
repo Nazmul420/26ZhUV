@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:23am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:24am]",
 
 
 
@@ -448,59 +448,59 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",151.T Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",152.Sony Six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://103.49.168.172:8081/ebox/six/chunks.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",153.Sony Ten 1
-http://103.205.133.50/hls/ten1.m3u8
+http://103.205.133.50/hls/ten1.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",154.Sony Ten 2
-http://103.205.133.50/hls/ten2.m3u8
+http://103.205.133.50/hls/ten2.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",155.Sony Ten 3
-http://103.205.133.50/hls/ten3.m3u8
+http://103.205.133.50/hls/ten3.m3u8?token=soheliptv01826655778
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U5Rw_NMJ2pA/XquN010dQnI/AAAAAAAABS8/kfvJYGOck04D_4byya7EKb_VspaHDdVhgCNcBGAsYHQ/s640/Picture3.png" group-title="Sports",156.PK Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",156.ESPN
-http://global.thunderbd.com/23/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/23/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2
-http://103.205.133.50/hls/chss2.m3u8
+http://103.205.133.50/hls/chss2.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",157.Star Sports 3
-http://43.230.123.21:8080/live/starsports-3.m3u8
+http://43.230.123.21:8080/live/starsports-3.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="" group-title="Sports",158.Star Sports Select 1 HD
-http://43.230.123.21:8080/live/starsportsselect-1.m3u8
+http://43.230.123.21:8080/live/starsportsselect-1.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",158.Star Sports Select 2 HD [1]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",158.Star Sports Select 2 HD [2]
-http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",159.Bein Sports 1 HD
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",160.Bein Sports 2 HD
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",161.Bein Sports Xtra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",161.BT Sports 2
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png",162.Fox Sport HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",163.Ten Sports*
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Sports",164.PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",165.Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",166.Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Sports",167.Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTsAJDKaJMiyjtdK34JEE09bEq3fHvUQ7rfg&usqp=CAU" group-title="Sports",168.WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",169.Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",170.DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8?token=soheliptv01826655778
 
 
 
