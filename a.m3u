@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:20am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [22.10.2020]  Time [12:21am]",
 
 
 
@@ -36,7 +36,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",1.BTV
-http://103.205.133.50/hls/btv.m3u8
+http://103.205.133.50/hls/btv.m3u8?@01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [1]
@@ -169,9 +169,9 @@ https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg" group-title="Bangladeshi",57.City IPTV
 https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangladeshi",58.Magic Bangla TV
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
+http://enaniptv.com/magicbanglatv/1080/index.m3u8?@01826655778
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",59.KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangladeshi",60.Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?@01826655778
 
