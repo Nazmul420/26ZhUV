@@ -347,9 +347,9 @@ http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",115.Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",116.Star Gold HD
-http://43.230.123.21:8080/live/star-gold.m3u8
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",117.Star Gold Select HD
-http://43.230.123.21:8080/live/star-gold-select.m3u8
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",118.Star Movies HD
 http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
@@ -407,7 +407,7 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",139.Travel Channel*
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",139.Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",124.Fox Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
@@ -446,7 +446,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",151.Titas Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",151.T Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",152.Sony Six
 http://103.49.168.172:8081/ebox/six/chunks.m3u8
@@ -478,14 +478,15 @@ http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",160.Bein Sports 2 HD
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",161.Bein Sports Xtra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",161.BT Sports 2
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png",162.Fox Sport HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",163.Ten Sports
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",163.Ten Sports*
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="Sports",164.PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
