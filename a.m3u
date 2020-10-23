@@ -286,8 +286,10 @@ http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8?token=soheliptv01826655778
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",98.Zee TV HD Canada
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema HD
-http://43.230.123.21:8080/live/zee-cinema.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema HD [1]
+http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema HD [2]
+http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema USA
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Indian",99.Zee Cinema UK
