@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [26.10.2020]  Time [12:30pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [26.10.2020]  Time [12:35pm]",
 
 
 
@@ -34,6 +34,7 @@ http://103.205.133.50/hls/dbcnews.m3u8?token=soheliptv01826655778
 http://103.205.133.50/hls/news24.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",6.Shomoy TV
 http://global.thunderbd.com/17/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+https://103.43.148.202:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi",7.Independent
 http://global.thunderbd.com/12/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi",8.CHANNEL 24
