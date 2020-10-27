@@ -199,8 +199,8 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?token=soheliptv018266557
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",82.Animal Planet HD [2]
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",83.National Geographic
-http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="" group-title="Documentary",83.National Geographic Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",84.National Geographic [China]
 https://www.fanmingming.cn/hls/natlgeo.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",85.National Geographic [UAE]
