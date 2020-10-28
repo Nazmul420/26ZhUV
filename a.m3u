@@ -207,7 +207,8 @@ https://www.fanmingming.cn/hls/natlgeo.m3u8?token=soheliptv01826655778
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",85.BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-logo="" group-title="Documentary",85.PBS America
+http://51.52.156.22:8888/http/012
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
@@ -283,8 +284,8 @@ http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?token=soheliptv01826655778
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",110.Sony Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
-http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",111.Sony Pix HD
+
 
 
 
