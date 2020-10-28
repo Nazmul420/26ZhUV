@@ -283,8 +283,8 @@ http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?token=soheliptv01826655778
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",110.Sony Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",111.Sony Pix HD
-
+#EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
+http://51.52.156.22:8888/http/009
 
 
 
