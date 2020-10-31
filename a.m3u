@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [30.10.2020]  Time [11:45pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [31.10.2020]  Time [02:30pm]",
 
 
 
@@ -14,11 +14,11 @@ https://www.dropbox.com/s/t77fwkvluzfrufg/Promo.mp4?raw=1
 
 
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live [Regular Update]
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8?token=soheliptv01826655778
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 1
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8?token=soheliptv01826655778
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 2
-
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 
 
 
@@ -443,22 +443,40 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?token=soheliptv0182665
 http://116.203.182.40:80/hls/bein2.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 2
-http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 3
-http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 4
-http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 5
-http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 6
-http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 7
-http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 8
-http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",158.Bein Sports 9
-http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2
+http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3
+http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4
+http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5
+http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6
+http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7
+http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8
+http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
+http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1
+http://cdn1.52dvb.xyz:80/5000/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2
+http://cdn1.52dvb.xyz:80/5001/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3
+http://cdn1.52dvb.xyz:80/5002/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4
+http://cdn1.52dvb.xyz:80/5003/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5
+http://cdn1.52dvb.xyz:80/5004/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6
+http://cdn1.52dvb.xyz:80/5005/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7
+http://cdn1.52dvb.xyz:80/5006/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8
+http://cdn1.52dvb.xyz:80/5007/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
+http://cdn1.52dvb.xyz:80/5008/playlist.m3u8?token=soheliptv01826655778
 
 
 
