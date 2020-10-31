@@ -386,6 +386,8 @@ http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN
 http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN HD
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [1]
 http://criclive.sonarbanglatv.com:8081/livetv/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [2]
