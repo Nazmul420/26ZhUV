@@ -223,6 +223,8 @@ http://51.52.156.22:8888/http/012
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
+http://livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",87.Disney Channel
 http://95.111.250.189:25461/live/OrangeTV/rony/10659.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",88.Discovery Kids
