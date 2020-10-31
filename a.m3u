@@ -295,6 +295,8 @@ http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?token=soheliptv01826655778
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",110.Sony Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",110.Sony Wah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
 http://51.52.156.22:8888/http/009
 
