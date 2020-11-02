@@ -222,6 +222,14 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?t
 #EXTINF:-1 tvg-logo="" group-title="Documentary",85.PBS America
 http://51.52.156.22:8888/http/012
 
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="Kids",86.Cartoon Network
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/148
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="Kids",86.Nick
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/201
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="Kids",86.Hungama
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/766
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
@@ -426,7 +434,8 @@ http://103.205.133.50/hls/ten2.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="Sports",155.Star Sports 1 Hindi
+https://tivimateplaylists.live/starsportshindin
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 2
 http://103.205.133.50/hls/chss2.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",156.Star Sports Select 2 HD
