@@ -16,7 +16,7 @@ https://www.dropbox.com/s/t77fwkvluzfrufg/Promo.mp4?raw=1
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live [Regular Update]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 1
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
 
 
 
