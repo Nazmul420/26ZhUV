@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.11.2020]  Time [07:51pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.11.2020]  Time [07:58pm]",
 
 
 
@@ -448,34 +448,41 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
 
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",157.Bein Sports 1 HD
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",158.Bein Sports 2 HD [1]
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",158.Bein Sports 2 HD [2]
-http://116.203.182.40:80/hls/bein2.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1
-http://cdn1.52dvb.xyz:80/5000/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7675
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2
-http://cdn1.52dvb.xyz:80/5001/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7676
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3
-http://cdn1.52dvb.xyz:80/5002/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7677
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4
-http://cdn1.52dvb.xyz:80/5003/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7678
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5
-http://cdn1.52dvb.xyz:80/5004/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7679
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6
-http://cdn1.52dvb.xyz:80/5005/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7680
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7
-http://cdn1.52dvb.xyz:80/5006/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7681
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8
-http://cdn1.52dvb.xyz:80/5007/playlist.m3u8?token=soheliptv01826655778
+http://51.68.119.176:30003/123/lavanatv/7682
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
-http://cdn1.52dvb.xyz:80/5008/playlist.m3u8?token=soheliptv01826655778
-
+http://51.68.119.176:30003/123/lavanatv/7683
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
+http://51.68.119.176:30003/123/lavanatv/7684
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 10
+http://51.68.119.176:30003/123/lavanatv/7685
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 11
+http://51.68.119.176:30003/123/lavanatv/14
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 12
+http://51.68.119.176:30003/123/lavanatv/15
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 13
+http://51.68.119.176:30003/123/lavanatv/16
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 14
+http://51.68.119.176:30003/123/lavanatv/17
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 15
+http://51.68.119.176:30003/123/lavanatv/18
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 16
+http://51.68.119.176:30003/123/lavanatv/19
 
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",159.Bein Sports Xtra
