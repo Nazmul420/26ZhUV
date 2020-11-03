@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.11.2020]  Time [07:45pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.11.2020]  Time [07:51pm]",
 
 
 
@@ -226,6 +226,8 @@ http://51.52.156.22:8888/http/012
 
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Cartoon Network
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/148
+#EXTINF: -1 tvg-logo="" group-title="Kids",86.Sony Yay
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Nick
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/201
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Sonic
