@@ -19,15 +19,14 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 2
 http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 3
-http://c1live.com:8081/c1live/ipl/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",1.BTV
 http://103.205.133.50/hls/btv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD
-http://95.111.250.189:25461/live/OrangeTV/rony/10521.m3u8?token=soheliptv01826655778
+http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News
 http://103.205.133.50/hls/dbcnews.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",5.News 24
