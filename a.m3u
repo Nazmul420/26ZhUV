@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.11.2020]  Time [07:50pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.11.2020]  Time [09:20pm]",
 
 
 
@@ -456,23 +456,23 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1
-http://51.68.119.176:30003/123/lavanatv/7675
+http://51.68.119.176:30003/123/lavanatv/4
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2
-http://51.68.119.176:30003/123/lavanatv/7676
+http://51.68.119.176:30003/123/lavanatv/5
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3
-http://51.68.119.176:30003/123/lavanatv/7677
+http://51.68.119.176:30003/123/lavanatv/6
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4
-http://51.68.119.176:30003/123/lavanatv/7678
+http://51.68.119.176:30003/123/lavanatv/8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5
-http://51.68.119.176:30003/123/lavanatv/7679
+http://51.68.119.176:30003/123/lavanatv/9
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6
-http://51.68.119.176:30003/123/lavanatv/7680
+http://51.68.119.176:30003/123/lavanatv/10
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7
-http://51.68.119.176:30003/123/lavanatv/7681
+http://51.68.119.176:30003/123/lavanatv/11
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8
-http://51.68.119.176:30003/123/lavanatv/7682
+http://51.68.119.176:30003/123/lavanatv/12
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
-http://51.68.119.176:30003/123/lavanatv/7683
+http://51.68.119.176:30003/123/lavanatv/13
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9
 http://51.68.119.176:30003/123/lavanatv/7684
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 10
