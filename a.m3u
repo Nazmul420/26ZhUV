@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.11.2020]  Time [07:58pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [04.11.2020]  Time [07:50pm]",
 
 
 
@@ -223,18 +223,17 @@ http://51.52.156.22:8888/http/012
 
 
 
-#EXTINF: -1 tvg-logo="" group-title="Kids",86.Cartoon Network
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/148
+
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Sony Yay
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Kids",86.Nick
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/201
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Kids",86.Nick HD+
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Kids",86.Nick Jr.
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_jrPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Sonic
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Kids",86.Hungama
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/766
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids",86.Pogo
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_pogoPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_pogoPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
@@ -264,7 +263,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",94.Zee Bangla
 http://103.205.133.50/hls/zeebangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [1]
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6107607.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [2]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [3]
@@ -295,9 +294,8 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8?token=soheliptv0
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath [1]
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath [2]
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
 http://103.205.133.50/hls/sony8.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV
 http://103.205.133.50/hls/chs.m3u8?token=soheliptv01826655778
@@ -316,14 +314,16 @@ https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Pix
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6850950.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha
 http://103.205.133.50/hls/chsj.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [1]
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [2]
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
-http://c1live.com:8081/c1live/jalshamovies/chunks.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_jalsha_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus
 http://103.205.133.50/hls/chsp.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD
@@ -374,9 +374,9 @@ http://103.205.133.50/hls/chc.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",134.Colors HD
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla",135.Colors Bangla
-http://c1live.com:8081/c1live/colorsbangla/chunks.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla",135.Colors Bangla HD
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla",135.Colors Bangla HD
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_bangla_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU" group-title="Indian",135.Colors Rishtey
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Indian",136.And Pictures
