@@ -210,11 +210,11 @@ https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?token=sohelipt
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",82.Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="" group-title="Documentary",83.National Geographic Wild
+#EXTINF:-1 tvg-logo="" group-title="Documentary",83.National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",84.National Geographic [China]
-https://www.fanmingming.cn/hls/natlgeo.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",85.National Geographic [UAE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",84.National Geographic
+hthttps://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_inPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",85.National Geographic HD [UAE]
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",85.BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
@@ -393,23 +393,16 @@ http://z5amshls.akamaized.net/andflixhd/playlist.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",139.Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="English",124.Fox Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",140.Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",141.Fox HD [Russia]
-http://live-ng-01.more.tv/hls/FOX_HD/index_2.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN HD
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [1]
-http://criclive.sonarbanglatv.com:8081/livetv/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [2]
-https://ott.bingebd.com:443/live/ngrp:hbo_all/chunklist_b2670202.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [3]
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [China] 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",143.HBO Hits
