@@ -178,6 +178,8 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?token=soh
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",68.ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://www.kolkatatv.org/assets/website/images/kolkata_tv.png" group-title="Indian Bangla",69.Kolkata tv
+https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Indian Bangla",69.Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Indian Bangla",70.R Plus Gold
