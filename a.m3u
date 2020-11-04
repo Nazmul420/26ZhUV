@@ -250,6 +250,8 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 http://210.210.155.35/dr9445/h/h02/01.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids",92.EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="" group-title="Kids",93.BBC Cbeebies
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids",93.Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",93.Boomerang
