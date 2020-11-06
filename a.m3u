@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [06.11.2020]  Time [12:25am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [06.11.2020]  Time [12:25pm]",
 
 
 
@@ -89,7 +89,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 2)",Server 2------------------------------------------------------------------------
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 3)",Server 3------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nmquv1p8p4uffq2/artv.jpg" group-title="BD IPTV",31.AR TV
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
@@ -787,6 +787,78 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 2)",30.Sangsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 3)",1.BTV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10507
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi (Server 3)",2.DBC News
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10530
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 3)",3.News 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10531
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi (Server 3)",4.SATV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10523
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi (Server 3)",5.Channel I
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10511
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 3)",6.Deepto TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10517
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi (Server 3)",7.CHANNEL 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10595
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi (Server 3)",8.ATN Bangla
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10510
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi (Server 3)",9.ATN News
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10592
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi (Server 3)",10.Banglavision
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10515
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi (Server 3)",11.RTV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10525
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi (Server 3)",12.NTV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10514
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi (Server 3)",13.Ekushey TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10513
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi (Server 3)",14.My TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10526
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 3)",15.Gaan Bangla HD
+http://103.205.133.50/hls/gaanbangla.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi (Server 3)",16.Bangla TV
+http://103.205.133.50/hls/banglatv.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi (Server 3)",17.Nagorik TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10518
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi (Server 3)",18.MOHONA TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10527
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 3)",19.JAMUNA TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10532
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi (Server 3)",20.GTV HD
+http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 3)",21.Ekattor
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10529
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi (Server 3)",22.Maasranga
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10516
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 3)",23.Duronto TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10596
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi (Server 3)",24.Boishakhi
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10524
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi (Server 3)",25.Shomoy TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10594
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi (Server 3)",26.Independent
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10593
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi (Server 3)",27.Channel 9
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10519
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi (Server 3)",28.Asian TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10522
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi (Server 3)",29.Anando TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 3)",30.Sangsad TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10509
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
