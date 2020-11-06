@@ -795,7 +795,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 3)",1.BTV
-http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10507
+http://103.205.133.50/hls/btv.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi (Server 3)",2.DBC News
 http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10530
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 3)",3.News 24
@@ -825,7 +825,7 @@ http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10526
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 3)",15.Gaan Bangla HD
 http://103.205.133.50/hls/gaanbangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi (Server 3)",16.Bangla TV
-http://103.205.133.50/hls/banglatv.m3u8?token=soheliptv01826655778
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10507
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi (Server 3)",17.Nagorik TV
 http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10518
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi (Server 3)",18.MOHONA TV
