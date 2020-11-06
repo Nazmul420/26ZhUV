@@ -648,8 +648,6 @@ http://182.160.110.180:1020/;stream.mp3
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" group-title="FM Radio",Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/lfhl97ehec4x5tf/92.8.png?raw=1" group-title="FM Radio",Radio Bhumi (92.8)*
-https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/wwu6mams4pv2yfs/94.4.png?raw=1" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/d32unlv8de1kn89/96.4.jpg?raw=1" group-title="FM Radio",Spice FM (96.4)
