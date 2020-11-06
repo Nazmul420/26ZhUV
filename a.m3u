@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [06.11.2020]  Time [11:30pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [06.11.2020]  Time [11:59pm]",
 
 
 
@@ -275,9 +275,9 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",96.Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",97.Zee TV
-http://dx3.gcdn.co/hindi-ZEETV/index.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",97.Zee TV HD
-http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8?token=soheliptv01826655778
+https://watchindia.net:8443/live/04978/98069/1970.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",97.Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",98.Zee TV HD Canada
@@ -303,22 +303,24 @@ http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8?token=soheliptv01
 http://103.205.133.50/hls/sony8.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV
 http://103.205.133.50/hls/chs.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV HD
+https://watchindia.net:8443/live/04978/98069/1969.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",106.Sony Max
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?token=soheliptv01826655778
+https://watchindia.net:8443/live/04978/98069/788.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",108.Sony Max 2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?token=soheliptv01826655778
+https://watchindia.net:8443/live/04978/98069/2024.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?token=soheliptv01826655778
+https://watchindia.net:8443/live/04978/98069/781.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",110.Sony Pal
-http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?token=soheliptv01826655778
+https://watchindia.net:8443/live/04978/98069/812.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",110.Sony Wah
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Pix
-
+https://watchindia.net:8443/live/04978/98069/2101.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha [1]
 http://103.205.133.50/hls/chsj.m3u8?token=soheliptv01826655778
@@ -335,13 +337,11 @@ http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8?token=soheliptv
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus
 http://103.205.133.50/hls/chsp.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD
-http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8?token=soheliptv01826655778
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_plus_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",117.Star Bharat HD
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8?token=soheliptv01826655778
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",118.Star Gold HD
-http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",119.Star Gold Select HD
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8?token=soheliptv01826655778
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?token=soheliptv01826655778
 
