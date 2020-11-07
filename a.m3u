@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [07.11.2020]  Time [1:12pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [07.11.2020]  Time [1:59pm]",
 
 
 
@@ -90,6 +90,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 2)",Server 2------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 3)",Server 3------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi (Server 4)",Server 4------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nmquv1p8p4uffq2/artv.jpg" group-title="BD IPTV",31.AR TV
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
@@ -192,6 +193,8 @@ https://streamitv.multitvsolution.in/idvo/khushboo.m3u8?token=soheliptv018266557
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
 
 
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",73.Discovery
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",73.Discovery Bangla
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",74.Discovery Hindi
@@ -232,6 +235,8 @@ https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nick_jrPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",86.Sonic
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonicPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",86.Sony Yay
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
@@ -272,6 +277,8 @@ http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?token=soheliptv0182665
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [2]
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [3]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",96.Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",97.Zee TV
@@ -307,8 +314,10 @@ http://103.205.133.50/hls/chs.m3u8?token=soheliptv01826655778
 https://watchindia.net:8443/live/04978/98069/1969.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",106.Sony Max
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD [1]
 https://watchindia.net:8443/live/04978/98069/788.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD [2]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",108.Sony Max 2
 https://watchindia.net:8443/live/04978/98069/2024.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab
@@ -330,6 +339,8 @@ http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8?token=soheliptv018266
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_jalsha_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [2]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [3]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jalsha_moviesPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
@@ -344,6 +355,8 @@ https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="" group-title="English",119.Star Movies Select HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",120.Sangeet Bangla
@@ -746,8 +759,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi (Server 2)",10.Banglavision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-
-
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi (Server 2)",11.RTV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi (Server 2)",12.NTV
@@ -766,12 +777,8 @@ http://103.205.133.50/hls/nagorik.m3u8?token=soheliptv01826655778
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 2)",19.JAMUNA TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-
-
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi (Server 2)",20.GTV HD
 http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
-
-
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 2)",21.Ekattor
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi (Server 2)",22.Maasranga
@@ -792,11 +799,6 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 2)",30.Sangsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-
-
-
-
-
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 3)",1.BTV
@@ -860,6 +862,67 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 3)",30.Sangsad TV
 http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10509
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 4)",1.BTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi (Server 4)",2.DBC News
+http://103.205.133.50/hls/dbcnews.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 4)",3.News 24
+http://103.205.133.50/hls/news24.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi (Server 4)",4.SATV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/08.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi (Server 4)",5.Channel I
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/04.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 4)",6.Deepto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/05.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi (Server 4)",7.CHANNEL 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi (Server 4)",8.ATN Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi (Server 4)",9.ATN News
+http://103.205.133.50/hls/atnnews.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi (Server 4)",10.Banglavision
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi (Server 4)",11.RTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi (Server 4)",12.NTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/09.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi (Server 4)",13.Ekushey TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi (Server 4)",14.My TV HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 4)",15.Gaan Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi (Server 4)",16.Bangla TV
+http://103.205.133.50/hls/banglatv.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi (Server 4)",17.Nagorik TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/03.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi (Server 4)",18.MOHONA TV
+http://103.205.133.50/hls/mohonatv.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 4)",19.JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi (Server 4)",20.GTV HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/06.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 4)",21.Ekattor
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi (Server 4)",22.Maasranga
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi (Server 4)",23.Duronto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi (Server 4)",24.Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi (Server 4)",25.Shomoy TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi (Server 4)",26.Independent
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladeshi (Server 4)",27.Channel 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/07.ts?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi (Server 4)",28.Asian TV
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi (Server 4)",29.Anando TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi (Server 4)",30.Sangsad TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
 
 
