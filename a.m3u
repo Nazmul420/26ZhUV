@@ -225,7 +225,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?toke
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Documentary",85.PBS America
 http://51.52.156.22:8888/http/012
-
+#EXTINF:-1 tvg-logo="" group-title="Documentary",85.Travel XP HD
+https://watchindia.net:8443/live/04978/98069/792.m3u8?token=soheliptv01826655778
 
 
 
