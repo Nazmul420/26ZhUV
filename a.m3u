@@ -367,6 +367,8 @@ http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8?token=soheliptv01826655778
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian",118.Star Gold HD
 https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="Indian", Star Gold Select HD
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",119.Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="" group-title="English",119.Star Movies Select HD
