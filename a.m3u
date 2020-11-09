@@ -490,25 +490,25 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1 HD
-http://116.203.155.242/hls/bein1.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6596
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2 HD
-http://116.203.155.242/hls/bein2.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6597
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 3 HD
-http://116.203.155.242/hls/bein3.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6598
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 4 HD
-http://116.203.155.242/hls/bein4.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6599
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 5 HD
-http://116.203.155.242/hls/bein5.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6600
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 6 HD
-http://116.203.155.242/hls/bein6.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6601
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 7 HD
-http://116.203.155.242/hls/bein7.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6602
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 8 HD
-http://116.203.155.242/hls/bein8.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6603
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 9 HD
-http://116.203.155.242/hls/bein9.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6604
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 10 HD
-http://116.203.155.242/hls/bein10.m3u8
+http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6595
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports5.jpg",159.Sky sport EPL HD
