@@ -238,6 +238,9 @@ http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8?token=soheliptv
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Nick
 http://136.243.177.164/NICKELODEON/playlist.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids",87.Disney Junior	
+http://79.137.41.99/DisneyChannel/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",88.Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",89.Animax
