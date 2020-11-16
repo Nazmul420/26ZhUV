@@ -467,11 +467,12 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",158.Bein Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports HD
+http://dx3.gcdn.co/BEINSPORTSES/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 1 HD
-http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
+http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",158.Bein Sports 2 HD
-http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports5.jpg",159.Sky sport EPL HD
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
