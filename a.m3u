@@ -261,19 +261,14 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",94.Zee Bangla
-http://103.205.133.50/hls/zeebangla.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [1]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [2]
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [3]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [4]
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",96.Zee Bangla Cinema [1]
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",96.Zee Bangla Cinema [2]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",96.Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Indian",97.Zee TV
 
