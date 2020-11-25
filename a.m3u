@@ -345,13 +345,13 @@ http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8?token=soheliptv01826655778
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="" group-title="English",119.Star Movies Select HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:0 tvg-logo="" group-title="English",119.Star World HD
+#EXTINF:0 tvg-logo="" group-title="English",119.Star World HD [1]
 http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="English",119.Star World
+#EXTINF:0 tvg-logo="" group-title="English",119.Star World HD [2]
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies HD [1]
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",119.Star Movies  HD [2]
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",120.Sangeet Bangla
