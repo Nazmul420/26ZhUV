@@ -210,6 +210,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",85.BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",85.BBC Earth English
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",85.Sony BBC Earth HD
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Documentary",85.PBS America
