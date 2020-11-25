@@ -331,8 +331,10 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [1]
 http://103.205.133.19/hls/chsp.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [2]
+http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Indian",117.Star Bharat HD
