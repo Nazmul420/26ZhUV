@@ -444,9 +444,8 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 
 #EXTINF:0 tvg-logo="" group-title="Sports",155.Star Sports 1
-https://ahmadabdullahrifat.shortcm.li/starsports1
-#EXTINF: -1 tvg-logo="" group-title="Sports",155.Star Sports 1 Hindi
-https://tivimateplaylists.live/starsportshindin
+http://dx3.gcdn.co/STARSPORTSHD1/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2
 http://103.205.133.19/hls/chss2.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="" group-title="Sports",157.Star Sports Select 1 HD
