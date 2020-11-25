@@ -202,6 +202,8 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?token=soheli
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Documentary",81.Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",82.Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",82.Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Documentary",83.National Geographic Wild HD
