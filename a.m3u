@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [27.11.2020]  Time [10:35am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [27.11.2020]  Time [12:35pm]",
 
 #EXTINF:0 tvg-logo="" group-title="",BPL Live [1]
 https://piratesiptv.shortcm.li/bpllive.m3u8
@@ -8,7 +8,7 @@ https://piratesiptv.shortcm.li/bpllive2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png" group-title="",01826655778
-http://103.205.133.19/hls/btv.m3u8
+http://103.205.133.21/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9mq84r9bq0ui22p/hqdefault.jpg?raw=1" group-title="",Ityadi
 https://piratesiptv.shortcm.li/ityadi.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zc2qufsco7uxl51/logo.png?raw=1" group-title="",Behind The Puppy
@@ -16,43 +16,43 @@ https://piratesiptv.shortcm.li/trailerBTP.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi (Server 1)",1.BTV
-http://103.205.133.19/hls/btv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/btv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi (Server 1)",2.DBC News
-http://103.205.133.19/hls/dbcnews.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/dbcnews.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi (Server 1)",3.News 24
-http://103.205.133.19/hls/news24.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/news24.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi (Server 1)",4.SATV
-http://103.205.133.19/hls/satv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/satv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi (Server 1)",5.Channel I
-http://103.205.133.19/hls/ichannel.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/ichannel.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 1)",6.Deepto TV
-http://103.205.133.19/hls/deeptotv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/deeptotv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi (Server 1)",7.CHANNEL 24
-http://103.205.133.19/hls/channel24.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/channel24.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi (Server 1)",8.ATN Bangla
-http://103.205.133.19/hls/atnbangla.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/atnbangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi (Server 1)",9.ATN News
-http://103.205.133.19/hls/atnnews.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/atnnews.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi (Server 1)",10.Banglavision
-http://103.205.133.19/hls/banglavision.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/banglavision.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi (Server 1)",11.RTV
-http://103.205.133.19/hls/rtv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/rtv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi (Server 1)",12.NTV
-http://103.205.133.19/hls/ntv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/ntv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi (Server 1)",13.Ekushey TV
-http://103.205.133.19/hls/ekushey.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/ekushey.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi (Server 1)",14.My TV HD
-http://103.205.133.19/hls/mytv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/mytv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi (Server 1)",15.Gaan Bangla HD
-http://103.205.133.19/hls/gaanbangla.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/gaanbangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi (Server 1)",16.Bangla TV
-http://103.205.133.19/hls/banglatv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/banglatv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladeshi (Server 1)",17.Nagorik TV
-http://103.205.133.19/hls/nagorik.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/nagorik.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi (Server 1)",18.MOHONA TV
-http://103.205.133.19/hls/mohonatv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/mohonatv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi (Server 1)",19.JAMUNA TV
-http://103.205.133.19/hls/jamunatv.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/jamunatv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi (Server 1)",20.GTV HD
 http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi (Server 1)",21.Ekattor
@@ -263,7 +263,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",94.Zee Bangla [1]
-http://103.205.133.19/hls/zeebangla.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/zeebangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",94.Zee Bangla [2]
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",95.Zee Bangla HD [1]
@@ -300,9 +300,9 @@ http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8?token=soheliptv01
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath
-http://103.205.133.19/hls/sony8.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/sony8.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV
-http://103.205.133.19/hls/chs.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/chs.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",106.Sony Max
@@ -326,7 +326,7 @@ http://51.52.156.22:8888/http/009
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha [1]
-http://103.205.133.19/hls/chsj.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/chsj.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha [2]
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [1]
@@ -338,7 +338,7 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [1]
-http://103.205.133.19/hls/chsp.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/chsp.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [2]
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",116.Star Plus HD
@@ -363,7 +363,7 @@ http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",120.Sangeet Bangla
-http://103.205.133.19/hls/sangeetbangla.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="" group-title="Music",120.Bangla Talkies
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",121.9XM
@@ -455,7 +455,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
-http://103.205.133.19/hls/ten2.m3u8?token=soheliptv01826655778
+http://103.205.133.21/hls/ten2.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
 
