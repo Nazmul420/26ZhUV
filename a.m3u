@@ -435,6 +435,12 @@ http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8?token=soheliptv01826655
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",143.HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="English",143.Bein Movies 1
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="" group-title="English",143.Bein Movies 2
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="" group-title="English",143.Bein Movies 3
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",144.MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
