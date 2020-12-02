@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.12.2020]  Time [10:30am]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.12.2020]  Time [01:30pm]",
 
 
 
@@ -223,7 +223,7 @@ http://51.52.156.22:8888/http/012
 #EXTINF:0 tvg-id="ext" group-title="Kids",86.Sonic
 https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",86.Sony Yay
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network Hindi
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Cartoon Network
@@ -233,7 +233,7 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Nick
 http://136.243.177.164/NICKELODEON/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",86.Nick Bangla
-http://stm.aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids",87.Disney Junior	
 http://79.137.41.99/DisneyChannel/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",88.Discovery Kids
