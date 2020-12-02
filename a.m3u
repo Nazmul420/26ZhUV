@@ -482,9 +482,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",150.PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",150.T Sports [1]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",150.T Sports [2]
 http://113.212.111.246:8080/hls/col2.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",150.T Sports [Only Live]
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
@@ -502,13 +501,9 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?token=soheliptv018266557
 
 #EXTINF:0 tvg-logo="" group-title="Sports",155.Star Sports 1 HD
 http://dx3.gcdn.co/STARSPORTSHD1/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",156.Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="" group-title="Sports",157.Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",157.Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?token=soheliptv01826655778
+
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",158.Bein Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778
