@@ -301,19 +301,18 @@ http://103.205.133.21/hls/chs.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",106.Sony Max
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD [1]
+https://ccntv.anytv.live/sonymax/index.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",107.Sony Max HD [2]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",108.Sony Max 2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8?token=soheliptv01826655778
+https://ccntv.anytv.live/sonymax2/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?token=soheliptv01826655778
+https://ccntv.anytv.live/sonysab/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",110.Sony Pal
-https://ahmadabdullahrifat.shortcm.li/sonypal
+
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",110.Sony Wah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="" group-title="English",111.Sony Pix
