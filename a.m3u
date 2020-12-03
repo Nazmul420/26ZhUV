@@ -549,7 +549,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="English",171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="English",172.24 Box TV
-http://51.158.190.97/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Others",173.Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",174.Deejay TV
@@ -567,12 +567,12 @@ http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",181.Series Zone
-https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",182.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="English",185.The ShortFilms
-https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",187.Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
@@ -601,10 +601,7 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",200.ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="English",201.Rai 1
-http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="English",202.Rai 2
-http://5.135.92.133:52841/out/u/452_1.m3u8
+
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="Indian",203.Big Ganga
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="English",204.Dove channel
