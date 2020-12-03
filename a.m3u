@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [02.12.2020]  Time [06:30pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [03.12.2020]  Time [06:10pm]",
 
 
 
@@ -566,12 +566,11 @@ http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vgJnopD.png" group-title="Others",180.Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",181.Series Zone
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",182.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="English",185.The ShortFilms
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",187.Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -602,7 +601,6 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="Others",200.ITV 4
 http://51.52.156.22:8888/http/007
 
-#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="Indian",203.Big Ganga
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="English",204.Dove channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
