@@ -322,11 +322,11 @@ http://51.52.156.22:8888/http/009
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",112.Star Jalsha HD [1]
-https://rhridoy136.shortcm.li/starjalsha.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",113.Star Jalsha HD [2]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies
-https://rhridoy136.shortcm.li/starjalshamovies.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",114.Jalsha Movies HD
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Indian",115.Star Plus [1]
